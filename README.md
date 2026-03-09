@@ -3,12 +3,12 @@
 <!-- ══════════════════════════════════════════════════ -->
 <!--                   HEADER BANNER                   -->
 <!-- ══════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a192f,100:112240&height=220&section=header&text=Aditya%20Prakash&fontSize=65&fontColor=64ffda&fontAlignY=38&desc=ML%20Engineer%20%7C%20Open%20Source%20Contributor%20%7C%20Available%20for%20Internships%202026&descSize=14&descColor=8892b0&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a192f,100:112240&height=220&section=header&text=Aditya%20Prakash&fontSize=65&fontColor=0F9D58&fontAlignY=38&desc=Data%20Science%20Enthusiast%20%7C%20Open%20Source%20Contributor%20%7C%20Available%20for%20Internships%202026&descSize=14&descColor=8892b0&descAlignY=58&animation=fadeIn" />
 
 <!-- ══════════════════════════════════════════════════ -->
 <!--                TYPING ANIMATION                   -->
 <!-- ══════════════════════════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=800&color=64FFDA&center=true&vCenter=true&multiline=false&width=720&height=45&lines=CSBS+%40+CVR+College+of+Engineering+%7C+8.7+CGPA;ML+Engineer+%7C+LLM+Agents+%7C+NLP+%7C+FastAPI;Open+Source+Contributor+%7C+SymPy+PR+Merged;Scikit-Learn+%7C+ReAct+Framework+%7C+Pandas+%7C+R;Open+to+SDE+%26+ML+Internships+2026" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=800&color=0F9D58&center=true&vCenter=true&multiline=false&width=720&height=45&lines=CSBS+%40+CVR+College+of+Engineering+%7C+8.7+CGPA;Data+Science+Enthusiast+%7C+NLP+%7C+FastAPI;Open+Source+Contributor+%7C+SymPy+PR+Merged;Scikit-Learn+%7C+Pandas+%7C+Numpy+%7C+R;Open+to+SDE+%26+ML+and+DS+Internships+2026" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -16,26 +16,26 @@
 <!--                  SOCIAL BADGES                    -->
 <!-- ══════════════════════════════════════════════════ -->
 <a href="https://www.linkedin.com/in/aditya-prakash-1a4534343/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
 &nbsp;
 <a href="mailto:prakashaditya2709@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="gmail" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40" height="40"/>
 </a>
 &nbsp;
 <a href="https://github.com/adityap-codes07" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
 </a>
 &nbsp;
 <a href="https://instagram.com/adityaaprakashh27" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=adityap-codes07&label=Profile+Views&color=64ffda&style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Internships%202026-64ffda?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/CGPA-8.7%20%2F%2010-64ffda?style=flat-square&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=adityap-codes07&label=Profile+Views&color=0F9D58&style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships%202026-0F9D58?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/CGPA-8.7%20%2F%2010-0F9D58?style=flat-square&labelColor=0d1117" />
 
 </div>
 
@@ -58,7 +58,7 @@ class AdityaPrakash:
 
     interests    = [
         "Machine Learning & Statistical Modeling",
-        "LLM Agents & ReAct Framework",
+        "Data Science",
         "NLP & Semantic Similarity Systems",
         "Applied Data Science for Large-Scale Systems",
         "Open Source Scientific Computing",
@@ -78,14 +78,14 @@ class AdityaPrakash:
 <!--                GITHUB TROPHIES                    -->
 <!-- ══════════════════════════════════════════════════ -->
 
-## 🏆 GitHub Trophies
-
+<!--## 🏆 GitHub Trophies
+TODO:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adityap-codes07&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 ---
-
+-->
 <!-- ══════════════════════════════════════════════════ -->
 <!--              CURRENTLY WORKING ON                 -->
 <!-- ══════════════════════════════════════════════════ -->
@@ -337,14 +337,15 @@ End-to-end ML API for real-time diabetes risk classification, fully deployed via
 ## ⏱️ Coding Activity — Wakatime
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adityap_codes07&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8b949e&layout=compact&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aditya_prakash&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8b949e&layout=compact&cache_seconds=1800" />
 </div>
-
+<!--
 <details>
 <summary>⚙️ <b>Wakatime setup — activate this card in 3 steps</b></summary>
+-->
 
 <br/>
-
+<!--
 **Step 1 — Create a free account**
 Go to [wakatime.com](https://wakatime.com) → sign up with your GitHub account.
 
@@ -359,7 +360,7 @@ After ~24 hours of coding, the card will auto-populate with your real language &
 </details>
 
 ---
-
+-->
 <!-- ══════════════════════════════════════════════════ -->
 <!--              CONTRIBUTION ACTIVITY                -->
 <!-- ══════════════════════════════════════════════════ -->
@@ -388,15 +389,17 @@ After ~24 hours of coding, the card will auto-populate with your real language &
       src="https://raw.githubusercontent.com/adityap-codes07/adityap-codes07/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
-
+<!--
 <details>
 <summary>⚙️ <b>Snake animation setup — activate it in 4 steps</b></summary>
-
+-->
+<!--
 <br/>
-
+<!--
 **Step 1 — Create the workflow file**
 Inside your `adityap-codes07` profile repo, create: `.github/workflows/snake.yml`
-
+-->
+<!--
 **Step 2 — Paste this YAML into it:**
 
 ```yaml
@@ -409,7 +412,7 @@ on:
   push:
     branches:
       - main
-
+-->
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -433,6 +436,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
+<!--
 **Step 3 — Enable write permissions**
 Repo → **Settings → Actions → General → Workflow permissions** → **Read and write** → Save.
 
@@ -442,7 +446,7 @@ Repo → **Settings → Actions → General → Workflow permissions** → **Rea
 </details>
 
 ---
-
+-->
 <!-- ══════════════════════════════════════════════════ -->
 <!--                  CERTIFICATIONS                   -->
 <!-- ══════════════════════════════════════════════════ -->
@@ -466,7 +470,7 @@ Repo → **Settings → Actions → General → Workflow permissions** → **Rea
 ✔  Merged open-source PR into a production scientific codebase (SymPy)
 ✔  Built & deployed ML APIs end-to-end (FastAPI + Scikit-Learn)
 ✔  NLP pipeline experience — semantic similarity engines
-✔  LLM Agent & ReAct framework knowledge — cutting-edge in 2026
+✔  LLM Agent & ReAct framework knowledge 
 ✔  Strong mathematical foundation (Probability, Statistics, Linear Algebra)
 ✔  Full stack exposure: Django · MongoDB · MySQL · REST APIs
 ✔  Low-level systems experience: C · Java · Data Structures

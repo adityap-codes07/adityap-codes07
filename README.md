@@ -200,13 +200,13 @@ End-to-end ML API for real-time diabetes risk classification, fully deployed via
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
 </a>
 
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+<!--<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
 </a>
 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
-</a>
+</a>-->
 
 </p>
 
@@ -217,9 +217,9 @@ End-to-end ML API for real-time diabetes risk classification, fully deployed via
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
 </a>
 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+<!--<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-</a>
+</a>-->
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
@@ -229,18 +229,22 @@ End-to-end ML API for real-time diabetes risk classification, fully deployed via
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<!--<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </a>
 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-</a>
+</a>-->
 
 </p>
 
-### 💻 Systems · Languages · CS Fundamentals
+### 💻 Systems · Languages 
 <p align="left">
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -254,9 +258,9 @@ End-to-end ML API for real-time diabetes risk classification, fully deployed via
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="40" height="40"/>
 </a>
 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<!--<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
+</a>-->
 
 </p>
 
@@ -271,9 +275,9 @@ End-to-end ML API for real-time diabetes risk classification, fully deployed via
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy (linear algebra)" width="40" height="40"/>
 </a>
 
-<a href="https://scipy.org/" target="_blank" rel="noreferrer">
+<!--<a href="https://scipy.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/>
-</a>
+</a>-->
 
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>

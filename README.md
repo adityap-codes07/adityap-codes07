@@ -384,14 +384,21 @@ After ~24 hours of coding, the card will auto-populate with your real language &
 ## 🐍 Contribution Snake
 
 <div align="center">
+  
+  ### 🏙️ 3D Contribution City
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/adityap-codes07/adityap-codes07/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/adityap-codes07/adityap-codes07/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake Animation"
-      src="https://raw.githubusercontent.com/adityap-codes07/adityap-codes07/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Premium 3D Contribution Graph" src="https://raw.githubusercontent.com/adityap-codes07/adityap-codes07/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
   </picture>
+
+  <br/>
+
+  ### 🐍 Premium Cyberpunk Snake
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityap-codes07/adityap-codes07/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityap-codes07/adityap-codes07/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/adityap-codes07/adityap-codes07/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+
 </div>
 <!--
 <details>

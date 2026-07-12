@@ -377,20 +377,19 @@ After ~24 hours of coding, the card will auto-populate with your real language &
 
 ---
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--           SNAKE CONTRIBUTION ANIMATION            -->
-<!-- ══════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Snake
-
 <div align="center">
   
-  ### 🏙️ 3D Contribution City
+  ### 🏙️ 3D Contribution City (Dark)
   <picture>
-    <img alt="Premium 3D Contribution Graph" src="https://raw.githubusercontent.com/adityap-codes07/adityap-codes07/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+    <img alt="Premium Dark 3D Contribution Graph" src="https://raw.githubusercontent.com/adityap-codes07/adityap-codes07/main/profile-3d-contrib/profile-night-theme.svg" width="100%" />
   </picture>
 
   <br/>
+</div>
+
+  <!-- ══════════════════════════════════════════════════ -->
+<!--           SNAKE CONTRIBUTION ANIMATION            -->
+<!-- ══════════════════════════════════════════════════ -->
 
   ### 🐍 Premium Cyberpunk Snake
   <picture>
@@ -400,64 +399,7 @@ After ~24 hours of coding, the card will auto-populate with your real language &
   </picture>
 
 </div>
-<!--
-<details>
-<summary>⚙️ <b>Snake animation setup — activate it in 4 steps</b></summary>
--->
-<!--
-<br/>
-<!--
-**Step 1 — Create the workflow file**
-Inside your `adityap-codes07` profile repo, create: `.github/workflows/snake.yml`
--->
-<!--
-**Step 2 — Paste this YAML into it:**
 
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
--->
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: adityap-codes07
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push output to `output` branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-<!--
-**Step 3 — Enable write permissions**
-Repo → **Settings → Actions → General → Workflow permissions** → **Read and write** → Save.
-
-**Step 4 — Trigger manually the first time**
-**Actions tab → Generate Snake Animation → Run workflow** → wait ~1 minute. ✅
-
-</details>
-
----
--->
 <!-- ══════════════════════════════════════════════════ -->
 <!--                  CERTIFICATIONS                   -->
 <!-- ══════════════════════════════════════════════════ -->

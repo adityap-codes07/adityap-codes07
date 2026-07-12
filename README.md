@@ -358,7 +358,7 @@ End-to-end ML API for real-time diabetes risk classification, fully deployed via
 
 <div align="center">
   
-  ### 🏙️ 3D Contribution City
+  ### Contribution City
   <picture>
     <img alt="Premium Dark 3D Contribution Graph" src="https://raw.githubusercontent.com/adityap-codes07/adityap-codes07/main/profile-3d-contrib/profile-night-view.svg" width="100%" />
   </picture>
@@ -369,7 +369,7 @@ End-to-end ML API for real-time diabetes risk classification, fully deployed via
 <!--           SNAKE CONTRIBUTION ANIMATION            -->
 <!-- ══════════════════════════════════════════════════ -->
 
-  ### 🐍 Premium Cyberpunk Snake
+  ### 🐍 SNAKE CONTRIBUTION ANIMATION 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityap-codes07/adityap-codes07/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityap-codes07/adityap-codes07/output/github-contribution-grid-snake.svg" />

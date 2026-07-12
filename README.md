@@ -379,13 +379,12 @@ After ~24 hours of coding, the card will auto-populate with your real language &
 
 <div align="center">
   
-  ### 🏙️ 3D Contribution City (Dark)
+  ### 🏙️ 3D Contribution City
   <picture>
-    <img alt="Premium Dark 3D Contribution Graph" src="https://raw.githubusercontent.com/adityap-codes07/adityap-codes07/main/profile-3d-contrib/profile-night-theme.svg" width="100%" />
+    <img alt="Premium Dark 3D Contribution Graph" src="https://raw.githubusercontent.com/adityap-codes07/adityap-codes07/main/profile-3d-contrib/profile-night-view.svg" width="100%" />
   </picture>
 
   <br/>
-</div>
 
   <!-- ══════════════════════════════════════════════════ -->
 <!--           SNAKE CONTRIBUTION ANIMATION            -->

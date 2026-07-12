@@ -343,28 +343,7 @@ End-to-end ML API for real-time diabetes risk classification, fully deployed via
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aditya_prakash&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8b949e&layout=compact&cache_seconds=1800" />
 </div>
-<!--
-<details>
-<summary>⚙️ <b>Wakatime setup — activate this card in 3 steps</b></summary>
--->
 
-<br/>
-<!--
-**Step 1 — Create a free account**
-Go to [wakatime.com](https://wakatime.com) → sign up with your GitHub account.
-
-**Step 2 — Install the VS Code extension**
-In VS Code: Extensions → search **WakaTime** → Install → paste your API key when prompted (found at `wakatime.com/settings/account`).
-
-**Step 3 — Update the username in this README**
-Replace `adityap_codes07` in the Wakatime card URL above with your actual Wakatime username shown on your dashboard.
-
-After ~24 hours of coding, the card will auto-populate with your real language & project breakdown. ✅
-
-</details>
-
----
--->
 <!-- ══════════════════════════════════════════════════ -->
 <!--              CONTRIBUTION ACTIVITY                -->
 <!-- ══════════════════════════════════════════════════ -->
